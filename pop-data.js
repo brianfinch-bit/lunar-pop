@@ -7,17 +7,16 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.achievablecpmrevenue.com/187fttst?key=80b8c7683bd8b62c14fd4b3fda4ef8b0",
+                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
                             
                         ]);
 
     var ars             = rChoice([
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_2",
+                            "https://mrharga.com",
                         ]);
 
 
-    var dir_type        = "refresh"; //refresh, domain, path, arsae
+    var dir_type        = "arsae"; //refresh, domain, path, arsae
 
 
     if(dir_type == 'refresh')
