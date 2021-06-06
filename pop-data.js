@@ -7,16 +7,16 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
+                            "https://www.safestcontentgate.com/gek1temmnr?key=b6af03eb5bf0c34825cd576aa99ce003",
                             
                         ]);
 
     var ars             = rChoice([
-                            "https://mrharga.com",
+                            "#YOUR_ARSAE_SERVER_OR_OTHER_DOMAIN_1",
                         ]);
 
 
-    var dir_type        = "arsae"; //refresh, domain, path, arsae
+    var dir_type        = "refresh"; //refresh, domain, path, arsae
 
 
     if(dir_type == 'refresh')
