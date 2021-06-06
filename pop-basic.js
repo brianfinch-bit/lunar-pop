@@ -11,7 +11,7 @@
 	{
 	    $(this).removeClass('dremo');
 	    window.open('https://www.safestcontentgate.com/gek1temmnr?key=b6af03eb5bf0c34825cd576aa99ce003', '_blank');
-	    window.location.href = console.log('refresh..');
+	    window.location.href = window.location.href;
 ;
 
 	});
