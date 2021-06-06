@@ -2,6 +2,8 @@
 /* pop under script */
 	$(document).ready(function()
 	{
+		    console.log('jquery ready!');
+
 	  $('body').addClass('dremo');
 	});
 
